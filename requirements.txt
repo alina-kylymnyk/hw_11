@@ -13,3 +13,11 @@ starlette==0.38.4
 typing_extensions==4.12.2
 tzdata==2024.1
 uvicorn==0.30.6
+fastapi == 0.89.1
+uvicorn ==0.20.0
+fastapi-jwt-auth == 0.5.0
+python-jose == 3.3.0
+sqlalchemy == 1.4.46
+passlib == 1.7.4
+multipart == 0.0.5
+
